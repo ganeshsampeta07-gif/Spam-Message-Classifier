@@ -4,11 +4,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Data and Models
+# Data and Outputs (large files, not needed in repo)
 data/
-models/
-
-# Outputs
 outputs/
 
 # OS Files
